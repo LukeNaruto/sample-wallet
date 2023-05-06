@@ -1,0 +1,19 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "editor.tabCompletion": "off",
+    "debug.console.acceptSuggestionOnEnter": "off",
+    "editor.wordBasedSuggestions": true,
+    "emmet.showSuggestionsAsSnippets": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "editor.screenReaderAnnounceInlineSuggestion": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "emmet.excludeLanguages": [],
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.syntaxProfiles": {}
+}
